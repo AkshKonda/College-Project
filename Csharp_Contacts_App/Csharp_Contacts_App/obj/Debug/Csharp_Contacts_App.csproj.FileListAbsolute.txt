@@ -1,0 +1,88 @@
+c:\users\1bestcsharp\documents\visual studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe.config
+c:\users\1bestcsharp\documents\visual studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe
+c:\users\1bestcsharp\documents\visual studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.pdb
+c:\users\1bestcsharp\documents\visual studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csprojResolveAssemblyReference.cache
+c:\users\1bestcsharp\documents\visual studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Properties.Resources.resources
+c:\users\1bestcsharp\documents\visual studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csproj.GenerateResource.Cache
+c:\users\1bestcsharp\documents\visual studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.exe
+c:\users\1bestcsharp\documents\visual studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.pdb
+C:\Users\1BestCsharp\Documents\Visual Studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\mysql.data.dll
+C:\Users\1BestCsharp\Documents\Visual Studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Login_Register_Form.resources
+C:\Users\1BestCsharp\Documents\Visual Studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Main_Form.resources
+C:\Users\1BestCsharp\Documents\Visual Studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_Contact_Form.resources
+C:\Users\1BestCsharp\Documents\Visual Studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Select_Contact_Form.resources
+C:\Users\1BestCsharp\Documents\Visual Studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Contacts_Full_List_Form.resources
+C:\Users\1BestCsharp\Documents\Visual Studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Add_Contact_Form.resources
+C:\Users\1BestCsharp\Documents\Visual Studio 2013\Projects\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_User_Data_Form.resources
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe.config
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.exe
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.pdb
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Database1.mdf
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Database1_log.ldf
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.pdb
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csprojResolveAssemblyReference.cache
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Contacts_Full_List_Form.resources
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_Contact_Form.resources
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_User_Data_Form.resources
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Main_Form.resources
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Login_Register_Form.resources
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Add_Contact_Form.resources
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Properties.Resources.resources
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Select_Contact_Form.resources
+C:\Users\jabili.adepu\Desktop\c_contacts_app\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csproj.GenerateResource.Cache
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Database1.mdf
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Database1_log.ldf
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe.config
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.pdb
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csprojAssemblyReference.cache
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Contacts_Full_List_Form.resources
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_Contact_Form.resources
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_User_Data_Form.resources
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Main_Form.resources
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Login_Register_Form.resources
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Add_Contact_Form.resources
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Properties.Resources.resources
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Select_Contact_Form.resources
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csproj.GenerateResource.cache
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csproj.CoreCompileInputs.cache
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csproj.CopyComplete
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.exe
+C:\Users\KONDA MAHESH\Desktop\c_contacts_app - Copy(ToBe ZIPPED)\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.pdb
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe.config
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.exe
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.pdb
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Database1.mdf
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Database1_log.ldf
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.pdb
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csprojResolveAssemblyReference.cache
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Contacts_Full_List_Form.resources
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_Contact_Form.resources
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_User_Data_Form.resources
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Main_Form.resources
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Login_Register_Form.resources
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Add_Contact_Form.resources
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Properties.Resources.resources
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Select_Contact_Form.resources
+C:\Users\jabili.adepu\Downloads\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csproj.GenerateResource.Cache
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe.config
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.exe
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.pdb
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Database1.mdf
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Database1_log.ldf
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.exe
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\Csharp_Contacts_App.pdb
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csprojResolveAssemblyReference.cache
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Contacts_Full_List_Form.resources
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_Contact_Form.resources
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Edit_User_Data_Form.resources
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Main_Form.resources
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Login_Register_Form.resources
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Add_Contact_Form.resources
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Properties.Resources.resources
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.Select_Contact_Form.resources
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\obj\Debug\Csharp_Contacts_App.csproj.GenerateResource.Cache
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\bin\Debug\Database1.mdf
+C:\Users\jabili.adepu\Desktop\c# contacts app-20181112T042616Z-001\c# contacts app\Csharp_Contacts_App\Csharp_Contacts_App\bin\Debug\bin\Debug\Database1_log.ldf
